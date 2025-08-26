@@ -1,0 +1,12 @@
+.div-img {
+    width: 120px;
+    height: 180px;
+}
+
+.div-productos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column: auto;
+    gap: 20px;
+    margin-bottom: 10px;
+}
